@@ -2,17 +2,18 @@
 A programming language. Not decided what it will do :)
 
 ## Syntax
+
 ```
-# variable decalaration
-var : Int = 10;
-var : Char = 'a';
-var : Float = 1.63;
+# variable declaration
+var identifier : Int = 10;
+var identifier : Char = 'a';
+var identifier : Float = 1.63;
 
 # string
-var : String = "Hello";
+var identifier : String = "Hello";
 
 # constants
-const : Int = 10;
+const identifier : Int = 10;
 ```
 
 Thats all I thought for now.
